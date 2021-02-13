@@ -1,0 +1,10 @@
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\Debug\Car Power Converter.exe.config
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\Debug\Car Power Converter.exe
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\Debug\Car Power Converter.pdb
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car Power Converter.csprojAssemblyReference.cache
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car_Power_Converter.Form1.resources
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car_Power_Converter.Properties.Resources.resources
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car Power Converter.csproj.GenerateResource.cache
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car Power Converter.csproj.CoreCompileInputs.cache
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car Power Converter.exe
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\Debug\Car Power Converter.pdb

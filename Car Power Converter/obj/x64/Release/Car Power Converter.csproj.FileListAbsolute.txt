@@ -1,0 +1,9 @@
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\x64\Release\Car Power Converter.exe.config
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\x64\Release\Car Power Converter.exe
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\bin\x64\Release\Car Power Converter.pdb
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car_Power_Converter.Form1.resources
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car_Power_Converter.Properties.Resources.resources
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car Power Converter.csproj.GenerateResource.cache
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car Power Converter.csproj.CoreCompileInputs.cache
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car Power Converter.exe
+C:\Users\helio\source\repos\Car Power Converter\Car Power Converter\obj\x64\Release\Car Power Converter.pdb
